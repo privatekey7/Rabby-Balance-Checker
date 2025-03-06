@@ -33,5 +33,5 @@
  ┗ 📜 wallet-balances.csv # Результаты
 
  💻 Скачать:  ссылка (https://github.com/privatekey7/SVM_balance_checker)
- 😘 Комьюнити: Chat (https://t.me/privatekey7)
+ 😘 Создано (https://t.me/privatekey7)
  🛠 Поддержка: https://t.me/duroff_pavel
